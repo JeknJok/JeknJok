@@ -16,10 +16,6 @@ I build software across the stack — from production APIs and data-processing l
 </div>
 
 ---
-
-## About Me
-
-- Computer Science
 - Experience developing and maintaining **production REST APIs**
 - Currently contributing to a **multi-backend Python data-quality and profiling library**
 - Interested in **systems programming, software architecture, data engineering, ML/CV, compilers, and performance**
